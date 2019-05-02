@@ -1,0 +1,248 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="111.github.io" resolutions="1x,2x" timestamp="1556776671528">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4118161593" ref="index"/>
+    <file name="nomq_index.css" crc="195362691" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="walkcycle2.gifcask" crc="82141008" seo="true" mt="1555557035000"/>
+    <file name="walkcycle.gifcask" crc="82141008" seo="true" mt="1555557035000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="act_100026.jpg" crc="507512368" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="角色動作.png" crc="4217368888" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="角色動作_2x.png" crc="523063076" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="分鏡海報638x903.png" crc="244775084" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="分鏡海報638x903_2x.png" crc="484227679" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="act_150038.jpg" crc="169764297" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="act_30049.jpg" crc="421543671" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fin0149.jpg" crc="356510533" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="act_050018.jpg" crc="3996384431" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="act_150038-crop-u1028.jpg" crc="4176756533" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="act_150038-crop-u1028_2x.jpg" crc="3931994390" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="act_30049-crop-u1184.jpg" crc="280064640" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="act_30049-crop-u1184_2x.jpg" crc="69778290" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fin0149-crop-u1329.jpg" crc="351774212" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fin0149-crop-u1329_2x.jpg" crc="511171125" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="act_050018-crop-u1221.jpg" crc="57421164" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="act_050018-crop-u1221_2x.jpg" crc="498587759" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="walkcycle.gif" crc="430697999" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="walkcycle_2x.gif" crc="430697999" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poster3.png" crc="237209015" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poster3_2x.png" crc="87952113" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1435-11.png" crc="3943006069" ref="index"/>
+    <file name="u1435-11_2x.png" crc="477463120" ref="index"/>
+    <file name="u895-6.png" crc="3969443727" ref="index"/>
+    <file name="u895-6_2x.png" crc="4269110544" ref="index"/>
+    <file name="shopping-cart (1).png" crc="343587456" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="title.png" crc="3962511175" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.png" crc="193013272" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_2x.png" crc="354416545" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.png" crc="4004766339" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2_2x.png" crc="4279935125" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.png" crc="3843256231" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3_2x.png" crc="9107551" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="act_1000261058x596.jpg" crc="247329415" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="title493x422.png" crc="4124672332" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="385x68.png" crc="3897823435" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="385x68_2x.png" crc="4153352629" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="285x68.png" crc="3866810313" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="285x68_2x.png" crc="315809235" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="185x68.png" crc="370229519" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="185x68_2x.png" crc="3866158511" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="分鏡海報.png" crc="494157004" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="分鏡海報_2x.png" crc="4223055760" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="act_150038-crop-u10282.jpg" crc="4176756533" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="act_150038-crop-u1028_2x2.jpg" crc="3931994390" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="act_30049-crop-u11842.jpg" crc="280064640" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="act_30049-crop-u1184_2x2.jpg" crc="69778290" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fin0149-crop-u13292.jpg" crc="351774212" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fin0149-crop-u1329_2x2.jpg" crc="511171125" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="act_050018-crop-u12212.jpg" crc="57421164" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="act_050018-crop-u1221_2x2.jpg" crc="498587759" seo="true" ref="index">
+      <caption webpage="i-wanna-catch-you" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1435-112.png" crc="4183188480" ref="index"/>
+    <file name="u1435-11_2x2.png" crc="3931467519" ref="index"/>
+    <file name="u895-62.png" crc="3969443727" ref="index"/>
+    <file name="u895-6_2x2.png" crc="4269110544" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3850804043" seo="true" mt="1556776537529" redirect="true"/>
+</manifest>
